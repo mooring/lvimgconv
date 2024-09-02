@@ -1,4 +1,4 @@
-# convert png to lvgl img format in c and binary
+# convert png to lvgl format in c and binary
 
 ## node 14
 
