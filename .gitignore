@@ -1,6 +1,5 @@
 node_modules/
 *.c
 *.bin
-*.exe
-*/package-lock.json
+package-lock.json
 *.png
